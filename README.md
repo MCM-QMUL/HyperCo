@@ -107,4 +107,6 @@ If using this code for research or industrial purposes, please cite:
 https://doi.org/10.1016/j.cma.2025.118584
 
 ## License
-MIT
+Creative Commons Attribution–NonCommercial (CC BY-NC)
+This software is provided for academic research and educational purposes only.
+Commercial use, distribution, or sublicensing is strictly prohibited without written permission from the authors.
