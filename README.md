@@ -3,8 +3,6 @@ Hypersurface Co-design Framework for Structural Optimisation
 
 # Co-design of Structures via Generalized Evolution
 
-MATLAB Implementation of Liu et al., CMA 2025
-
 This repository contains the MATLAB source code accompanying:
 
 Liu, Y., Xia, B., Li, Z., Ren, H., Du, J., Tan, W. (2025).
