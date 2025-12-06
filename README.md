@@ -30,13 +30,26 @@ Establishes a new foundation for next-generation structural optimisation, bridgi
 
 This unified approach expands the design space and enables engineers and researchers to explore truly co-designed structural solutions, opening doors to applications in aerospace, civil engineering, energy, and advanced manufacturing.
 
+Comparison with the existing methods:
+<img width="3075" height="1597" alt="Comparison with existing method" src="https://github.com/user-attachments/assets/5bda3b44-7042-4bb1-932c-03ddebfdf852" />
+
 These animations show the optimization process of the two cases. We can clearly see both shape and topological variations.
 
 CE-y-o; Single-material
-<img width="671" height="532" alt="image" src="https://github.com/user-attachments/assets/21a1f1e8-f94f-4079-8def-f35651b60d47" /> 
+![Picture3](https://github.com/user-attachments/assets/4f39008d-ecce-430e-96f5-6e9b56aab12a)
 
 CE-x-y-o; Single-material
-<img width="671" height="532" alt="image" src="https://github.com/user-attachments/assets/050e55e3-ba81-4695-8782-2e80bd5f8f01" />
+![Picture4](https://github.com/user-attachments/assets/1fa2b7a2-6a26-4766-813e-2fbf1ea918ea)
+
+The optimized single-material result for the 2D cantilever beam design, obtained using the OE component of the GGE. The zoomed-in views reveal numerous intricate fiber-like structural components, highlighting local geometric features in detail.
+![1-s2 0-S0045782525008564-gr27_lrg](https://github.com/user-attachments/assets/cd8f0f43-a16a-47f8-acbd-2a83d4a2132d)
+
+Comparison of the optimized results, intermediate solutions during the optimization process, and compliance histories for the pure topology optimization and collaborative optimization of the 3D shell structure design.
+![Picture7](https://github.com/user-attachments/assets/bfbd8cf4-4ebe-47e9-9587-8ad05883281f)
+![Picture8](https://github.com/user-attachments/assets/5acd89c5-7a46-446b-8cd7-f5222c6e6df4)
+![Picture9](https://github.com/user-attachments/assets/29f6a381-ddc4-4d97-bafd-edf19d4abb61)
+
+
 
 
 
