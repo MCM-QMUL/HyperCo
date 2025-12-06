@@ -101,7 +101,7 @@ Table 1: Matlab codes for different type of optimisation
 
 ## Reference
 
-If using this code for research or industrial purposes, please cite:
+If you want to use the code for academic purposes, please contact Dr.Wei Tan (wei.tan@qmul.ac.uk) and cite:
 
 [1] Liu, Y., Xia, B., Li, Z., Ren, H., Du, J., Tan, W. (2025). Co-design of structures via generalized evolution. Computer Methods in Applied Mechanics and Engineering, 118584.
 https://doi.org/10.1016/j.cma.2025.118584
