@@ -80,6 +80,8 @@ Click the green “Run” button
 
 This will execute a default co-design example.
 
+Table 1: Matlab codes for different type of optimisation
+
 | **Optimisation Type**                             | **Evolution Manner(s)** | **Material System** |
 | ------------------------------------------------- | ----------------------- | ------------------- |
 | **Material optimisation**                         | **TEₓ_S**               | Single-material     |
@@ -95,11 +97,12 @@ This will execute a default co-design example.
 |                                                   | **CEₓᵧₒ_C**             | Composite           |
 
 
-Reference
+## Reference
+
 If using this code for research or industrial purposes, please cite:
 
 [1] Liu, Y., Xia, B., Li, Z., Ren, H., Du, J., Tan, W. (2025).Co-design of structures via generalized evolution. Computer Methods in Applied Mechanics and Engineering, 118584.
 https://doi.org/10.1016/j.cma.2025.118584
 
-License
+## License
 MIT
