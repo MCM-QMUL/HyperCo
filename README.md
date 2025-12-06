@@ -16,7 +16,7 @@ The framework enables simultaneous shape and topology optimisation by evolving t
 
 The method offers a unified mathematical framework for simultaneous shape and topology optimisation by evolving two surrogate hypersurfaces via tangential (shape) and orthogonal (topology) motions. A quasi-conformal transformation ensures consistent geometry updates, while an ALE strategy preserves mesh quality during evolution.
 
-##  Impact
+##  Scientific contributions
 
 This framework enables structurally superior designs that cannot be achieved using shape or topology optimisation alone. By integrating both within a single evolution equation, the method:
 
@@ -29,6 +29,17 @@ Allows smooth transitions between shape change and topological change, avoiding 
 Establishes a new foundation for next-generation structural optimisation, bridging mathematical rigor, mechanical interpretation, and practical implementation.
 
 This unified approach expands the design space and enables engineers and researchers to explore truly co-designed structural solutions, opening doors to applications in aerospace, civil engineering, energy, and advanced manufacturing.
+
+These animations show the optimization process of the two cases. We can clearly see both shape and topological variations.
+
+CE-y-o; Single-material
+<img width="671" height="532" alt="image" src="https://github.com/user-attachments/assets/21a1f1e8-f94f-4079-8def-f35651b60d47" /> 
+
+CE-x-y-o; Single-material
+<img width="671" height="532" alt="image" src="https://github.com/user-attachments/assets/050e55e3-ba81-4695-8782-2e80bd5f8f01" />
+
+
+
 
 ## Software Requirements
 
