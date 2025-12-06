@@ -36,23 +36,19 @@ Comparison with the existing methods:
 These animations show the optimization process of the two cases. We can clearly see both shape and topological variations.
 
 CE-y-o; Single-material
-![Picture3](https://github.com/user-attachments/assets/4f39008d-ecce-430e-96f5-6e9b56aab12a)
+![image115](https://github.com/user-attachments/assets/96864121-b3aa-4459-851f-41b79eaf8b3c)
 
 CE-x-y-o; Single-material
-![Picture4](https://github.com/user-attachments/assets/1fa2b7a2-6a26-4766-813e-2fbf1ea918ea)
+![image116](https://github.com/user-attachments/assets/6dc42403-d731-4c28-8ee9-1c7e264fa7ea)
+
 
 The optimized single-material result for the 2D cantilever beam design, obtained using the OE component of the GGE. The zoomed-in views reveal numerous intricate fiber-like structural components, highlighting local geometric features in detail.
 ![1-s2 0-S0045782525008564-gr27_lrg](https://github.com/user-attachments/assets/cd8f0f43-a16a-47f8-acbd-2a83d4a2132d)
 
 Comparison of the optimized results, intermediate solutions during the optimization process, and compliance histories for the pure topology optimization and collaborative optimization of the 3D shell structure design.
 ![Picture7](https://github.com/user-attachments/assets/bfbd8cf4-4ebe-47e9-9587-8ad05883281f)
-![Picture8](https://github.com/user-attachments/assets/5acd89c5-7a46-446b-8cd7-f5222c6e6df4)
-![Picture9](https://github.com/user-attachments/assets/29f6a381-ddc4-4d97-bafd-edf19d4abb61)
-
-
-
-
-
+![image124](https://github.com/user-attachments/assets/3cd896d9-6cdc-4b6b-b63b-385b7bbb7557)
+![image125](https://github.com/user-attachments/assets/71399cad-e430-4e9a-9fc7-f79cc1a46b64)
 
 ## Software Requirements
 
