@@ -5,10 +5,12 @@ Hypersurface Co-design Framework for Structural Optimisation
 
 This repository contains the MATLAB source code accompanying:
 
-Liu, Y., Xia, B., Li, Z., Ren, H., Du, J., Tan, W. (2025).
+Liu, Y., Xia, B., Li, Z., Ren, H., Du*, J., Tan*, W. (2025).
 Co-design of structures via generalized evolution.
 Computer Methods in Applied Mechanics and Engineering, 118584.
 https://doi.org/10.1016/j.cma.2025.118584
+
+Correponding authors: Wei Tan (wei.tan@qmul.ac.uk), Jianbin Du (dujb@tsinghua.edu.cn)
 
 The framework enables simultaneous shape and topology optimisation by evolving two surrogate hypersurfaces through tangential (shape) and orthogonal (topology) evolution. A quasi-conformal transformation ensures compatibility, and an ALE method maintains mesh quality during structural evolution.
 
