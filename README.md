@@ -28,28 +28,32 @@ Establishes a new foundation for next-generation structural optimisation, bridgi
 
 This unified approach expands the design space and enables engineers and researchers to explore truly co-designed structural solutions, opening doors to applications in aerospace, civil engineering, energy, and advanced manufacturing.
 
-Comparison with the existing methods:
+### Comparison with the existing methods:
 <img width="3075" height="1597" alt="Comparison with existing method" src="https://github.com/user-attachments/assets/5bda3b44-7042-4bb1-932c-03ddebfdf852" />
 
 These animations show the optimization process of the two cases. We can clearly see both shape and topological variations.
 
-CE-y-o; Single-material
+### CE-y-o; Single-material
 ![image115](https://github.com/user-attachments/assets/96864121-b3aa-4459-851f-41b79eaf8b3c)
 
-CE-x-y-o; Single-material
+### CE-x-y-o; Single-material
 ![image116](https://github.com/user-attachments/assets/6dc42403-d731-4c28-8ee9-1c7e264fa7ea)
 
-
+### Optimisation Composite-like structures
 The optimized single-material result for the 2D cantilever beam design, obtained using the OE component of the GGE. The zoomed-in views reveal numerous intricate fiber-like structural components, highlighting local geometric features in detail.
 ![1-s2 0-S0045782525008564-gr27_lrg](https://github.com/user-attachments/assets/cd8f0f43-a16a-47f8-acbd-2a83d4a2132d)
 
+### 3D solid structure optimisation
+![1-s2 0-S0045782525008564-gr27_lrg](https://github.com/user-attachments/assets/24628829-3417-4448-8d5b-85746f6e5a5d)
+
+### 3D shell structure optimisation
 Comparison of the optimized results, intermediate solutions during the optimization process, and compliance histories for the pure topology optimization and collaborative optimization of the 3D shell structure design.
 ![Picture7](https://github.com/user-attachments/assets/bfbd8cf4-4ebe-47e9-9587-8ad05883281f)
 
-Topology optimisation:
+### Topology optimisation:
 ![image124](https://github.com/user-attachments/assets/3cd896d9-6cdc-4b6b-b63b-385b7bbb7557)
 
-Topology and Shape optimisation:
+### Topology and Shape optimisation:
 ![image125](https://github.com/user-attachments/assets/71399cad-e430-4e9a-9fc7-f79cc1a46b64)
 
 
