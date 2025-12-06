@@ -47,8 +47,13 @@ The optimized single-material result for the 2D cantilever beam design, obtained
 
 Comparison of the optimized results, intermediate solutions during the optimization process, and compliance histories for the pure topology optimization and collaborative optimization of the 3D shell structure design.
 ![Picture7](https://github.com/user-attachments/assets/bfbd8cf4-4ebe-47e9-9587-8ad05883281f)
+
+Topology optimisation:
 ![image124](https://github.com/user-attachments/assets/3cd896d9-6cdc-4b6b-b63b-385b7bbb7557)
+
+Topology and Shape optimisation:
 ![image125](https://github.com/user-attachments/assets/71399cad-e430-4e9a-9fc7-f79cc1a46b64)
+
 
 ## Software Requirements
 
