@@ -1,7 +1,7 @@
 # HyperCo
 Hypersurface Co-design Framework for Structural Optimisation
 
-# Co-design of Structures via Generalized Evolution
+## Co-design of Structures via Generalized Evolution
 
 This repository contains the MATLAB source code accompanying:
 
@@ -103,7 +103,7 @@ Table 1: Matlab codes for different type of optimisation
 
 If using this code for research or industrial purposes, please cite:
 
-[1] Liu, Y., Xia, B., Li, Z., Ren, H., Du, J., Tan, W. (2025).Co-design of structures via generalized evolution. Computer Methods in Applied Mechanics and Engineering, 118584.
+[1] Liu, Y., Xia, B., Li, Z., Ren, H., Du, J., Tan, W. (2025). Co-design of structures via generalized evolution. Computer Methods in Applied Mechanics and Engineering, 118584.
 https://doi.org/10.1016/j.cma.2025.118584
 
 ## License
