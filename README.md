@@ -44,7 +44,7 @@ The optimized single-material result for the 2D cantilever beam design, obtained
 ![1-s2 0-S0045782525008564-gr27_lrg](https://github.com/user-attachments/assets/cd8f0f43-a16a-47f8-acbd-2a83d4a2132d)
 
 ### 3D solid structure optimisation
-![1-s2 0-S0045782525008564-gr27_lrg](https://github.com/user-attachments/assets/24628829-3417-4448-8d5b-85746f6e5a5d)
+![1-s2 0-S0045782525008564-gr29_lrg](https://github.com/user-attachments/assets/9f265460-69f5-4e74-81c9-c6e23dda49d5)
 
 ### 3D shell structure optimisation
 Comparison of the optimized results, intermediate solutions during the optimization process, and compliance histories for the pure topology optimization and collaborative optimization of the 3D shell structure design.
